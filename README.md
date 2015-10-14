@@ -10,3 +10,4 @@
 6. [Go in production - best practices](http://peter.bourgon.org/go-in-production/)
 7. [5 Things that make Go fast](http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 8. [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+9. [Set up VIM for go development](http://obahua.com/setup-vim-for-go-development/)
