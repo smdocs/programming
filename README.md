@@ -12,3 +12,4 @@
 8. [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 9. [Set up VIM for go development](http://obahua.com/setup-vim-for-go-development/)
 10. [Handling 1MM requests per min with GO](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
+11. [Go Algorithms](https://github.com/0xAX/go-algorithms)
