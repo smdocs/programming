@@ -13,3 +13,7 @@
 9. [Set up VIM for go development](http://obahua.com/setup-vim-for-go-development/)
 10. [Handling 1MM requests per min with GO](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 11. [Go Algorithms](https://github.com/0xAX/go-algorithms)
+12. 
+
+#### Java 
+1. [Quasar vs Akka Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
