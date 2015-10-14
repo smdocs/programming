@@ -16,4 +16,5 @@
 12. 
 
 #### Java 
-1. [Quasar vs Akka Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+1. [Java 67 resource](http://java67.blogspot.com/search/label/java%20concurrency%20tutorial)
+2. [Quasar vs Akka Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
