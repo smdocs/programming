@@ -19,6 +19,7 @@
 1. [Java 67 resource](http://java67.blogspot.com/search/label/java%20concurrency%20tutorial)
 2. [Quasar vs Akka Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 3. [Voxed Java Blog](https://www.voxxed.com/blog/category/java/)
+4. [Exploring Java bytecode](http://blog.nishtahir.com/2015/09/12/exploring-java-byte-code/)
 
 #### Messaging 
 1. [IRIS - De-centralized messaging](https://github.com/project-iris/iris)
