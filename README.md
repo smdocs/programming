@@ -23,3 +23,6 @@
 #### Messaging 
 1. [IRIS - De-centralized messaging](https://github.com/project-iris/iris)
 2. 
+
+#### Static site generators
+1. [Hugo - go based static site generator like Jekyll](https://gohugo.io/)
