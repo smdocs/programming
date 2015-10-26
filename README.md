@@ -15,7 +15,7 @@
 11. [Go Algorithms](https://github.com/0xAX/go-algorithms)
 12. [Corba - command line interface](https://github.com/spf13/cobra)
 13. [Groupcache](
-https://github.com/golang/groupcache) - is a caching and cache-filling library, intended as a replacement for memcached in many cases.]
+https://github.com/golang/groupcache) - is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 
 #### Java 
 1. [Java 67 resource](http://java67.blogspot.com/search/label/java%20concurrency%20tutorial)
