@@ -24,6 +24,7 @@ https://github.com/golang/groupcache) - is a caching and cache-filling library, 
 3. [Voxed Java Blog](https://www.voxxed.com/blog/category/java/)
 4. [Exploring Java bytecode](http://blog.nishtahir.com/2015/09/12/exploring-java-byte-code/)
 5. [Apache Ignite - Data and Compute Grid](https://apacheignite.readme.io/docs)
+6. [Vertx - Reactive applications on the jvm](http://vertx.io/)
 
 #### Messaging 
 1. [IRIS - De-centralized messaging](https://github.com/project-iris/iris)
