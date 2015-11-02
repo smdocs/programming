@@ -97,3 +97,4 @@ Toolkits & Middlewares
     Gocraft - A Go mux and middleware package.
 
 [Redigo - redis client for Golang](https://github.com/garyburd/redigo)
+[Testify - Extension to go testing package](https://github.com/stretchr/testify)
