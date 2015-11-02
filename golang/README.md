@@ -96,3 +96,4 @@ Toolkits & Middlewares
     OAuth - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
     Gocraft - A Go mux and middleware package.
 
+[Redigo - redis client for Golang](https://github.com/garyburd/redigo)
