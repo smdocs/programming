@@ -10,3 +10,8 @@ Continous Delivery and Integration - Best Practices
 7. Do not check-in binaries into version control 	
 8. Model your release process 	
 9. Support Component and Dependency Graph 	
+
+#### Resources
+
+1. [Go Build Pipeline](https://www.thoughtworks.com/go/)
+2. [CircleCli](https://circleci.com/)
