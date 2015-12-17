@@ -2,10 +2,7 @@
 Golang Resources
 ===============
 
-#### Community
-
-Go on Twitter
-Go on Google+
+[Golang Blog](http://www.goinggo.net/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=18)
 
 #### Beginner
 
