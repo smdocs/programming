@@ -5,3 +5,5 @@
 3. [Apollo - Spotify Microservies Library](https://github.com/spotify/apollo)
 
 
+#### JVM Debugging
+1. [Too many open files](http://techblog.roomkey.com/posts/too-many-files.html)
