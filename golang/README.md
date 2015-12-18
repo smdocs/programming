@@ -53,8 +53,7 @@ Introduction to Go
 - Go is Unapologetically Flawed, Here's Why We Use It
 
 #### Tools
-
-    Awesome Go
+[Aweaome Go](https://github.com/avelino/awesome-go)
 
 Websites
 
