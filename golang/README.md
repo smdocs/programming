@@ -2,8 +2,8 @@
 Golang Resources
 ===============
 
-[Golang Blog](http://www.goinggo.net/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=18)
-[Go Tutorials on youtube](http://devfreecasts.org/go/)
+- [Golang Blog](http://www.goinggo.net/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=18)
+- [Go Tutorials on youtube](http://devfreecasts.org/go/)
 #### Beginner
 
 - A Tour of Go - As a beginner , don't miss this tutorials.
