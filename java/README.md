@@ -13,6 +13,7 @@
 
 #### JVM Debugging
 1. [Too many open files](http://techblog.roomkey.com/posts/too-many-files.html)
+2. [Understanding JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
 
 ### Web Frameworks
 1. [Blade Java framework](http://bladejava.com/)
