@@ -13,3 +13,7 @@
 
 #### JVM Debugging
 1. [Too many open files](http://techblog.roomkey.com/posts/too-many-files.html)
+
+### Web Frameworks
+1. [Blade Java framework](http://bladejava.com/)
+2. [Semantic UI](http://semantic-ui.com/)
