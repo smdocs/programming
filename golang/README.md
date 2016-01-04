@@ -47,6 +47,7 @@ Introduction to Go
 - golang/go
 - Alex Edwards Blog
 - Nicolas Merouze Blog
+- [Burcu Dogan - github repository](https://github.com/rakyll?tab=repositories)
 - Openmymind
 - Structuring Applications in Go
 - My note on Map Iterations and Handling Arbitrary Types with Interface in Go
