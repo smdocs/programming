@@ -9,6 +9,7 @@
 
 #### Functional Java
 1. [Javaslang a package for more functional java](http://javaslang.com/)
+2. [Functional Java  - Best Practices](http://www.baeldung.com/java-8-lambda-expressions-tips)
 
 
 #### JVM Debugging
