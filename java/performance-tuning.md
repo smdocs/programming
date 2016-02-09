@@ -47,3 +47,4 @@ Following is a summary checklist of the steps we discussed. This may not tell yo
 ####Resources
 1. [Tuning Java servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 2. [Simple performance framework for java](http://zolyfarkas.github.io/spf4j/)
+3. [Garbage collection distilled](http://mechanical-sympathy.blogspot.co.uk/2013/07/java-garbage-collection-distilled.html)
