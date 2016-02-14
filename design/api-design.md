@@ -22,8 +22,8 @@
 
 
 #####The technical is social before it is technical.
-1. All Late Projects Are the Same, Software Engineering: An Idea Whose Time Has Come and Gone?, T. DeMarco.
-2 Epigrams in Programming, A. Perlis.
-3. How Do Committees Invent?, M.E. Conway.
-4. The Tyranny of Structurelessness, J. Freeman
+1. [All Late Projects Are the Same, Software Engineering: An Idea Whose Time Has Come and Gone?, T. DeMarco.](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.computer.org%2Fcms%2FComputer.org%2FComputingNow%2Fhomepage%2Fmostread%2FMostRead-SW-SoftwareEngineeringAnIdeaWhoseTimeHasCome.pdf&t=NjZiZjEwYzk1YzViMmY0ZjE0ZTc4MTA4NWFlNDVkMzM0NjU5Yzk2MSxtMjBlanFUSQ%3D%3D)
+2  [Epigrams in Programming, A. Perlis.](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.cs.yale.edu%2Fhomes%2Fperlis-alan%2Fquotes.html&t=YTJlODY1NWNlMGQ4NjIzM2Y3ODk2ZTNhNmViMjVjZmEwYTIzOGMzMCxtMjBlanFUSQ%3D%3D)
+3. [How Do Committees Invent?, M.E. Conway.](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.melconway.com%2FHome%2FConways_Law.html&t=OGVhMTFlYzUwYmY3MjM2OTVjM2Q2MDA2N2NkNTdjMzVhNDNiNmVkZSxtMjBlanFUSQ%3D%3D)
+4. [The Tyranny of Structurelessness, J. Freeman](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.jofreeman.com%2Fjoreen%2Ftyranny.htm&t=MmUzYjVhY2VjZjJiZWI4YjBmYjY3ZjQ0MzQ0ZWYzZGRiNjA2ZmI1NixtMjBlanFUSQ%3D%3D)
 
