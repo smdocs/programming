@@ -9,3 +9,4 @@
 
 #### 3. Articles
 - [Small experiment with Git as a data storage](http://akazlou.com/posts/2015-12-12-small-experiment-git-ds.html)
+- [Clojure Compilation](http://blog.ndk.io/clojure-compilation.html)
