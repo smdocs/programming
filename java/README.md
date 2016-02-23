@@ -10,7 +10,8 @@
 #### Functional Java
 1. [Javaslang a package for more functional java](http://javaslang.com/)
 2. [Functional Java  - Best Practices](http://www.baeldung.com/java-8-lambda-expressions-tips)
-3. [Jav 8 Concurrency Series](http://www.ibm.com/developerworks/java/library/j-jvmc2/index.html)
+3. [Java 8 Concurrency Series](http://www.ibm.com/developerworks/java/library/j-jvmc2/index.html)
+4. [Java8 Optional](http://codingjunkie.net/working-with-java8-optionals/)
 
 
 #### JVM Debugging
