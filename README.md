@@ -32,3 +32,7 @@ https://github.com/golang/groupcache) - is a caching and cache-filling library, 
 
 #### Static site generators
 1. [Hugo - go based static site generator like Jekyll](https://gohugo.io/)
+2. 
+
+#### Programming Challenges
+1. [The Crypto Challenge](http://cryptopals.com/)
