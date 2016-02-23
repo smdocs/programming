@@ -7,5 +7,5 @@
 
 ### Github repos
 1. [Alex King](https://github.com/lexi-lambda?tab=repositories)
-2. [greghendershott
-3. ](http://www.greghendershott.com/)
+2. [greghendershott](http://www.greghendershott.com/)
+ 
