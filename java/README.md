@@ -20,3 +20,6 @@
 ### Web Frameworks
 1. [Blade Java framework](http://bladejava.com/)
 2. [Semantic UI](http://semantic-ui.com/)
+
+### Concurrency
+1. [Executorservice-10-tips-and-tricks](http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html?view=classic)
