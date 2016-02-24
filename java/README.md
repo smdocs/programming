@@ -13,6 +13,7 @@
 2. [Functional Java  - Best Practices](http://www.baeldung.com/java-8-lambda-expressions-tips)
 3. [Java 8 Concurrency Series](http://www.ibm.com/developerworks/java/library/j-jvmc2/index.html)
 4. [Java8 Optional](http://codingjunkie.net/working-with-java8-optionals/)
+5. [Refactoring Tool in Java](https://github.com/rawls238/Scientist4J)
 
 
 #### JVM Debugging
