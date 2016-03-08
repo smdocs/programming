@@ -1,5 +1,7 @@
 # Racket Programming Resources
 
+[Racket Cheat Sheet](http://docs.racket-lang.org/racket-cheat/)
+
 ### Articles
 1. [Simple,safe,multimethods in Racket](http://lexi-lambda.github.io/blog/2016/02/18/simple-safe-multimethods-in-racket/)
 2. [The racket Language Blog](http://blog.racket-lang.org/)
@@ -10,4 +12,5 @@
 1. [Alex King](https://github.com/lexi-lambda?tab=repositories)
 2. [greghendershott](http://www.greghendershott.com/)
 3. [Guastavo](http://gus-massa.blogspot.com.ar/)
+4. [Jay McCarthy](https://github.com/jeapostrophe?tab=repositories)
  
