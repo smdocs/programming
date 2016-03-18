@@ -6,6 +6,7 @@
 #### 2. Resources
 - [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 - [JVM Summit - Hickey ](http://wiki.jvmlangsummit.com/images/a/ab/HickeyJVMSummit2009.pdf)
+- [Zach Tellman - website](http://ideolalia.com/)
 
 #### 3. Articles
 - [Small experiment with Git as a data storage](http://akazlou.com/posts/2015-12-12-small-experiment-git-ds.html)
