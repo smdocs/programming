@@ -106,5 +106,7 @@ the young generation grows from NewSize to MaxNewSize, both eden and the survivo
 - [JVM Performance Tuning](http://www.slideshare.net/aszegedi/everything-i-ever-learned-about-jvm-performance-tuning-twitter)
 - [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 - [Understanding Linux Load average](https://prutser.wordpress.com/2012/04/23/understanding-linux-load-average-part-1/)
+- [GC Viewer](https://github.com/chewiebug/GCViewer)
+- [Java Garbage Collection Distilled](http://www.infoq.com/articles/Java_Garbage_Collection_Distilled)
 [jvm-mem-model-image]: resources/jvm-mem-model.png
 [survivor-eq-image]:resources/survivor-ratio.png
