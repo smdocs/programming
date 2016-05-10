@@ -19,6 +19,7 @@ Introduction to Go
   - Creating Web Applications with Go
   - Essential Go
   - Golang programming tutorials
+  - [GoDebug - go debugging tool](https://github.com/mailgun/godebug)
 
 #### Books
 
