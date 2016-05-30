@@ -26,3 +26,7 @@
 
 ### Concurrency
 1. [Executorservice-10-tips-and-tricks](http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html?view=classic)
+2. 
+### Misc
+1. [Mark Paluch - github](https://github.com/mp911de?tab=repositories)
+2. 
