@@ -29,4 +29,5 @@
 2. 
 ### Misc
 1. [Mark Paluch - github](https://github.com/mp911de?tab=repositories)
+2. [Alexy Shipilev Blog](https://shipilev.net/)
 2. 
