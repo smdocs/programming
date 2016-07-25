@@ -32,4 +32,4 @@
 2. [Alexy Shipilev Blog](https://shipilev.net/)
 
 ###Sample Projects
-1. [WhirlPool - Netty and Kafka](https://github.com/jwboardman/whirlpool)
+1. [WhirlPool - Example Microservices using Kafka, Netty and WebSockets](https://github.com/jwboardman/whirlpool)
