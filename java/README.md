@@ -30,4 +30,6 @@
 ### Misc
 1. [Mark Paluch - github](https://github.com/mp911de?tab=repositories)
 2. [Alexy Shipilev Blog](https://shipilev.net/)
-2. 
+
+###Sample Projects
+1. [WhirlPool - Netty and Kafka](https://github.com/jwboardman/whirlpool)
