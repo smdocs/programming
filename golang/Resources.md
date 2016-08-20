@@ -12,5 +12,6 @@
 #### Tools
 1. [Goshawkdb - Object database in Golang](https://goshawkdb.io/index.html)
 2. [Circuit](https://github.com/gnomix/circuit)
+3. [Realize - Go build tool](https://github.com/tockins/realize)
 
 #### Libraries
