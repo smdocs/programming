@@ -9,7 +9,7 @@
 4. [Schemers Resources](http://www.schemers.org/)
 5. [Zero to Sixty in Racket](http://prl.ccs.neu.edu/blog/2016/08/02/tutorial-zero-to-sixty-in-racket/)
 6. [Frog a static web page generator in racket.](https://github.com/greghendershott/frog)
-7. [Clojure vs Racket](http://programming-puzzler.blogspot.com/2010/08/racket-vs-clojure.html
+7. [Clojure vs Racket](http://programming-puzzler.blogspot.com/2010/08/racket-vs-clojure.html)
 8. [How to design programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
 9. [programming languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 10. [List of free programming books.](http://resrc.io/list/10/list-of-free-programming-books/#racket)
