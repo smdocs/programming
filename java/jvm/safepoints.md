@@ -37,3 +37,6 @@ Unfortunately output from this option lacks timestamps, but it is still useful t
 ```-XX:+PrintSafepointStatistics –XX:PrintSafepointStatisticsCount=1``` – this two options will force JVM to report reason and timings after 
 each safepoint (it will be reported to stdout, not GC log).
 References
+
+##References
+http://blog.ragozin.info/search/label/performance
