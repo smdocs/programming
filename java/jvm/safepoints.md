@@ -39,4 +39,4 @@ each safepoint (it will be reported to stdout, not GC log).
 References
 
 ##References
-http://blog.ragozin.info/search/label/performance
+(http://blog.ragozin.info/search/label/performance)
