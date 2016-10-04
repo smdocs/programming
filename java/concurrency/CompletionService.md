@@ -12,7 +12,7 @@ next thread to finish the job, the client needs to wait until a big bunch of thr
 - Completion Service is behaves differently, it follows a producer/consumer philosophy: as soon a thread is done, it puts the result into a non blocking queue so that the consumer can take it.
 
 ```java
-    ExecutorService svc = Executors.newFixedThreadPool(NUM_OF_THREADS);
-		@SuppressWarnings("rawtypes")
-		CompletionService<String> csvc = new ExecutorCompletionService(svc);
+ExecutorService svc = Executors.newFixedThreadPool(NUM_OF_THREADS);
+@SuppressWarnings("rawtypes")
+CompletionService<String> csvc = new ExecutorCompletionService(svc);
 ```
