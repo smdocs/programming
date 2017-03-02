@@ -6,6 +6,7 @@
 - [Go Datastructures - Interfaces](http://research.swtch.com/interfaces)
 - [nicholasjackson.github.io - microservices](http://nicholasjackson.github.io/microservices/go/building-and-testing-microservices-part1/)
 - [Visualizing GO concurrency](https://dzone.com/articles/visualizing-concurrency-in-go-1)
+- [We’ve broken Go’s automated memory management, here’s what happened](https://www.cossacklabs.com/blog/investigating-go-memory-leaks.html)
 
 #### Books
 
